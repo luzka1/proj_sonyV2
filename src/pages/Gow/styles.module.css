@@ -1,0 +1,15 @@
+.container{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+.principal{
+    height: 100vh;
+    width: 100%;
+}
+.history{
+    height: 750px;
+    position: relative;
+}
